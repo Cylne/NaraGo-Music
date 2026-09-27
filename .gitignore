@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+database.sqlite
+*.sqlite
+data/uploads/
+data/workspace/
+data/tmp/
+*.log
+npm-debug.log*
+.DS_Store
