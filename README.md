@@ -2,7 +2,7 @@
 
 A lightweight, self-hosted music web app that provides access to songs, lyrics, charts, and mood-based discovery via the Rich Music API. Features a clean, dark UI built with vanilla HTML/CSS/JS and a Python proxy server to bypass CORS restrictions.
 
-![NaraGo Music Screenshot](./assets/images/narago-music-shot.png)
+![NaraGo Music Screenshot](./images/narago-music-shot.png)
 
 ## ✨ Features
 
